@@ -17,4 +17,4 @@ A clean, reusable, and mobile-first navigation component.
 ## Usage
 Clone and adapt into any frontend project.
 # navbar
-# navbar
+
